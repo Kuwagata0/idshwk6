@@ -1,0 +1,1084 @@
+当前日期: 2022/05/17 周二 
+输入新日期: (年月日) 
+主机名:           RL-20190616MNQI
+OS 名称:          Microsoft Windows 7 旗舰版 
+OS 版本:          6.1.7601 Service Pack 1 Build 7601
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构件类型:      Multiprocessor Free
+注册的所有人:     User
+注册的组织:       China
+产品 ID:          00426-OEM-8992662-00173
+初始安装日期:     2019/6/16 星期日, 10:56:19
+系统启动时间:     2022/5/16 星期一, 18:40:44
+系统制造商:       ASUSTeK COMPUTER INC.
+系统型号:         X450VC
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~2400 Mhz
+BIOS 版本:        American Megatrends Inc. X450VC.205, 2013/5/9 星期四
+Windows 目录:     C:\windows
+系统目录:         C:\windows\system32
+启动设备:         \Device\HarddiskVolume1
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (UTC+08:00)北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     8,078 MB
+可用的物理内存:   2,426 MB
+虚拟内存: 最大值: 12,171 MB
+虚拟内存: 可用:   2,162 MB
+虚拟内存: 使用中: 10,009 MB
+页面文件位置:     D:\pagefile.sys
+域:               WorkGroup
+登录服务器:       \\RL-20190616MNQI
+修补程序:         安装了 214 个修补程序。
+                  [01]: KB2849697
+                  [02]: KB2849696
+                  [03]: KB2841134
+                  [04]: KB2841134
+                  [05]: KB2670838
+                  [06]: KB2830477
+                  [07]: KB2592687
+                  [08]: KB2479943
+                  [09]: KB2491683
+                  [10]: KB2506014
+                  [11]: KB2506212
+                  [12]: KB2506928
+                  [13]: KB2509553
+                  [14]: KB2511455
+                  [15]: KB2533552
+                  [16]: KB2534111
+                  [17]: KB2545698
+                  [18]: KB2547666
+                  [19]: KB2552343
+                  [20]: KB2560656
+                  [21]: KB2563227
+                  [22]: KB2564958
+                  [23]: KB2570947
+                  [24]: KB2574819
+                  [25]: KB2579686
+                  [26]: KB2603229
+                  [27]: KB2604115
+                  [28]: KB2620704
+                  [29]: KB2621440
+                  [30]: KB2640148
+                  [31]: KB2644615
+                  [32]: KB2647753
+                  [33]: KB2654428
+                  [34]: KB2660075
+                  [35]: KB2667402
+                  [36]: KB2676562
+                  [37]: KB2685811
+                  [38]: KB2685813
+                  [39]: KB2690533
+                  [40]: KB2698365
+                  [41]: KB2705219
+                  [42]: KB2712808
+                  [43]: KB2719857
+                  [44]: KB2726535
+                  [45]: KB2727528
+                  [46]: KB2729094
+                  [47]: KB2732059
+                  [48]: KB2732487
+                  [49]: KB2736422
+                  [50]: KB2742599
+                  [51]: KB2750841
+                  [52]: KB2761217
+                  [53]: KB2763523
+                  [54]: KB2770660
+                  [55]: KB2773072
+                  [56]: KB2786081
+                  [57]: KB2791765
+                  [58]: KB2799926
+                  [59]: KB2800095
+                  [60]: KB2807986
+                  [61]: KB2808679
+                  [62]: KB2813347
+                  [63]: KB2813430
+                  [64]: KB2834140
+                  [65]: KB2839894
+                  [66]: KB2840631
+                  [67]: KB2843630
+                  [68]: KB2847927
+                  [69]: KB2852386
+                  [70]: KB2853952
+                  [71]: KB2857650
+                  [72]: KB2861698
+                  [73]: KB2862152
+                  [74]: KB2862330
+                  [75]: KB2862335
+                  [76]: KB2862973
+                  [77]: KB2864202
+                  [78]: KB2868038
+                  [79]: KB2868116
+                  [80]: KB2871997
+                  [81]: KB2884256
+                  [82]: KB2891804
+                  [83]: KB2892074
+                  [84]: KB2893294
+                  [85]: KB2893519
+                  [86]: KB2894844
+                  [87]: KB2908783
+                  [88]: KB2911501
+                  [89]: KB2912390
+                  [90]: KB2918077
+                  [91]: KB2919469
+                  [92]: KB2923545
+                  [93]: KB2928562
+                  [94]: KB2931356
+                  [95]: KB2937610
+                  [96]: KB2943357
+                  [97]: KB2952664
+                  [98]: KB2966583
+                  [99]: KB2968294
+                  [100]: KB2970228
+                  [101]: KB2972100
+                  [102]: KB2972211
+                  [103]: KB2973112
+                  [104]: KB2973201
+                  [105]: KB2973351
+                  [106]: KB2976897
+                  [107]: KB2977292
+                  [108]: KB2978120
+                  [109]: KB2984972
+                  [110]: KB2985461
+                  [111]: KB2990941
+                  [112]: KB2991963
+                  [113]: KB2992611
+                  [114]: KB2999226
+                  [115]: KB3003743
+                  [116]: KB3004361
+                  [117]: KB3004375
+                  [118]: KB3006121
+                  [119]: KB3006137
+                  [120]: KB3006625
+                  [121]: KB3008923
+                  [122]: KB3010788
+                  [123]: KB3011780
+                  [124]: KB3013531
+                  [125]: KB3020369
+                  [126]: KB3020370
+                  [127]: KB3020388
+                  [128]: KB3020393
+                  [129]: KB3021674
+                  [130]: KB3021917
+                  [131]: KB3022777
+                  [132]: KB3023215
+                  [133]: KB3030377
+                  [134]: KB3033889
+                  [135]: KB3035126
+                  [136]: KB3035132
+                  [137]: KB3037574
+                  [138]: KB3042553
+                  [139]: KB3045685
+                  [140]: KB3046017
+                  [141]: KB3046269
+                  [142]: KB3050265
+                  [143]: KB3054476
+                  [144]: KB3055642
+                  [145]: KB3059317
+                  [146]: KB3060716
+                  [147]: KB3064209
+                  [148]: KB3065987
+                  [149]: KB3067903
+                  [150]: KB3068708
+                  [151]: KB3071756
+                  [152]: KB3072305
+                  [153]: KB3074543
+                  [154]: KB3075226
+                  [155]: KB3076895
+                  [156]: KB3076949
+                  [157]: KB3077715
+                  [158]: KB3078601
+                  [159]: KB3078667
+                  [160]: KB3080149
+                  [161]: KB3084135
+                  [162]: KB3086255
+                  [163]: KB3092601
+                  [164]: KB3093513
+                  [165]: KB3097989
+                  [166]: KB3101722
+                  [167]: KB3102810
+                  [168]: KB3107998
+                  [169]: KB3108371
+                  [170]: KB3108381
+                  [171]: KB3108664
+                  [172]: KB3108670
+                  [173]: KB3109094
+                  [174]: KB3109103
+                  [175]: KB3109560
+                  [176]: KB3110329
+                  [177]: KB3121461
+                  [178]: KB3122648
+                  [179]: KB3123479
+                  [180]: KB3124001
+                  [181]: KB3124275
+                  [182]: KB3124280
+                  [183]: KB3126587
+                  [184]: KB3126593
+                  [185]: KB3127220
+                  [186]: KB3133977
+                  [187]: KB3137061
+                  [188]: KB3138378
+                  [189]: KB3138612
+                  [190]: KB3138910
+                  [191]: KB3139398
+                  [192]: KB3139914
+                  [193]: KB3140245
+                  [194]: KB3140735
+                  [195]: KB3147071
+                  [196]: KB3155178
+                  [197]: KB3156016
+                  [198]: KB3159398
+                  [199]: KB3161102
+                  [200]: KB3161949
+                  [201]: KB3170735
+                  [202]: KB3172605
+                  [203]: KB3179573
+                  [204]: KB3184143
+                  [205]: KB4019990
+                  [206]: KB4040980
+                  [207]: KB4474419
+                  [208]: KB4490628
+                  [209]: KB4493132
+                  [210]: KB4507004
+                  [211]: KB4516655
+                  [212]: KB4520003
+                  [213]: KB976902
+                  [214]: KB982018
+网卡:             安装了 8 个 NIC。
+                  [01]: Atheros AR9485 Wireless Network Adapter
+                      连接名:      无线网络连接
+                      启用 DHCP:   是
+                      DHCP 服务器: 10.208.128.1
+                      IP 地址
+                        [01]: 10.208.142.102
+                        [02]: fe80::3d85:f689:227b:416b
+                        [03]: 2001:da8:1002:a002::6:5d7d
+                  [02]: Realtek PCIe GBE Family Controller
+                      连接名:      本地连接
+                      状态:        媒体连接已中断
+                  [03]: VMware Virtual Ethernet Adapter for VMnet1
+                      连接名:      VMware Network Adapter VMnet1
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.148.1
+                        [02]: fe80::81fd:f577:b0f9:5667
+                  [04]: VMware Virtual Ethernet Adapter for VMnet8
+                      连接名:      VMware Network Adapter VMnet8
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.159.1
+                        [02]: fe80::8da6:b21b:2117:5bee
+                  [05]: Microsoft Virtual WiFi Miniport Adapter
+                      连接名:      无线网络连接 2
+                      状态:        媒体连接已中断
+                  [06]: Sangfor SSL VPN CS Support System VNIC
+                      连接名:      本地连接 2
+                      状态:        媒体连接已中断
+                  [07]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.56.1
+                        [02]: fe80::9914:ba90:b01c:a65
+                  [08]: TAP-Windows Adapter V9
+                      连接名:      本地连接 3
+                      状态:        媒体连接已中断
+Volume: \\?\Volume{b4b54976-8fe1-11e9-9d1f-806e6f6e6963}\
+   Mounted at: C:\
+   Extent [1]:
+       Disk:   0
+       Offset: 1048576
+       Length: 106296246272
+Volume: \\?\Volume{9c02e917-8fe2-11e9-8063-ac220baa45b7}\
+   Mounted at: G:\
+   Extent [1]:
+       Disk:   1
+       Offset: 2097152
+       Length: 53689188352
+Volume: \\?\Volume{b4b54977-8fe1-11e9-9d1f-806e6f6e6963}\
+   Mounted at: D:\
+   Extent [1]:
+       Disk:   0
+       Offset: 107372085248
+       Length: 132684709888
+Volume: \\?\Volume{9c02e923-8fe2-11e9-8063-ac220baa45b7}\
+   Mounted at: I:\
+   Extent [1]:
+       Disk:   1
+       Offset: 53693382656
+       Length: 128851116032
+Volume: \\?\Volume{9c02e920-8fe2-11e9-8063-ac220baa45b7}\
+   Mounted at: H:\
+   Extent [1]:
+       Disk:   1
+       Offset: 182546595840
+       Length: 85901443072
+Volume: \\?\Volume{9c02e913-8fe2-11e9-8063-ac220baa45b7}\
+   Mounted at: J:\
+   Extent [1]:
+       Disk:   1
+       Offset: 332874645504
+       Length: 167230603776
+Volume: \\?\Volume{b4b5497c-8fe1-11e9-9d1f-806e6f6e6963}\
+   Mounted at: E:\
+   No Extents
+
+
+HKLM\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\StartupPrograms
+   rdpclip
+     rdpclip
+     RDP Clip 监视程序
+     Microsoft Corporation
+     6.1.7601.17514
+     c:\windows\system32\rdpclip.exe
+     2010/11/20 星期六 19:04
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit
+   C:\Windows\system32\userinit.exe
+     C:\Windows\system32\userinit.exe
+     Userinit 登录应用程序
+     Microsoft Corporation
+     6.1.7601.17514
+     c:\windows\system32\userinit.exe
+     2010/11/20 星期六 18:10
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\VmApplet
+   SystemPropertiesPerformance.exe
+     SystemPropertiesPerformance.exe
+     更改计算机性能设置
+     Microsoft Corporation
+     6.1.7600.16385
+     c:\windows\system32\systempropertiesperformance.exe
+     2009/7/14 星期二 7:56
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+   explorer.exe
+     explorer.exe
+     Windows 资源管理器
+     Microsoft Corporation
+     6.1.7601.23537
+     c:\windows\explorer.exe
+     2016/8/29 星期一 23:04
+
+HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\AlternateShell
+   cmd.exe
+     cmd.exe
+     Windows 命令处理程序
+     Microsoft Corporation
+     6.1.7601.17514
+     c:\windows\system32\cmd.exe
+     2010/11/20 星期六 17:46
+
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+   IgfxTray
+     "C:\windows\system32\igfxtray.exe"
+     igfxTray Module
+     Intel Corporation
+     8.15.10.4229
+     c:\windows\system32\igfxtray.exe
+     2015/5/27 星期三 11:52
+   HotKeysCmds
+     "C:\windows\system32\hkcmd.exe"
+     hkcmd Module
+     Intel Corporation
+     8.15.10.4229
+     c:\windows\system32\hkcmd.exe
+     2015/5/27 星期三 11:52
+   Persistence
+     "C:\windows\system32\igfxpers.exe"
+     persistence Module
+     Intel Corporation
+     8.15.10.4229
+     c:\windows\system32\igfxpers.exe
+     2015/5/27 星期三 11:52
+   ComputerZ-Tray
+     C:\Program Files (x86)\LuDaShi\ComputerZTinyTray.exe
+     鲁大师
+     6.5020.1000.117
+     c:\program files (x86)\ludashi\computerztinytray.exe
+     2020/1/17 星期五 11:44
+
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run
+   360Safetray
+     "D:\360Safe\safemon\360Tray.exe" /start
+     360安全卫士 安全防护中心模块
+     360.cn
+     12.0.0.1221
+     d:\360safe\safemon\360tray.exe
+     2020/4/9 星期四 19:30
+   vmware-tray.exe
+     "I:\vmware\vmware-tray.exe"
+     VMware Tray Process
+     VMware, Inc.
+     15.5.0.49504
+     i:\vmware\vmware-tray.exe
+     2019/9/17 星期二 10:03
+
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Common Startup
+   McAfee Security Scan Plus.lnk
+     C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\McAfee Security Scan Plus.lnk
+     McAfee Security Scanner Scheduler
+     McAfee, LLC.
+     3.11.1664.0
+     c:\program files (x86)\mcafee security scan\3.11.1664\ssscheduler.exe
+     2020/2/6 星期四 3:05
+   NI Error Reporting.lnk
+     C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\NI Error Reporting.lnk
+     NI Error Reporting Server
+     National Instruments Corporation
+     3.0.0.49153
+     i:\mutlism\multism\shared\ni error reporting\nierserver.exe
+     2013/6/7 星期五 23:58
+   SOLIDWORKS 2016 快速启动.lnk
+     C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\SOLIDWORKS 2016 快速启动.lnk
+     InstallShield
+     Flexera Software LLC
+     20.0.0.376
+     c:\windows\installer\{768f3b65-1695-47b7-9002-b11400cb111d}\newshortcut2_87edf6c81d0a4b7b84f42fe0c6a9d608.exe
+     2013/5/30 星期四 13:06
+   SOLIDWORKS 后台下载程序.lnk
+     C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\SOLIDWORKS 后台下载程序.lnk
+     SOLIDWORKS Background Downloader
+     Dassault Systèmes SolidWorks Corp.
+     24.5.0.58
+     c:\program files (x86)\common files\solidworks 安装管理程序\backgrounddownloading\sldbgdwld.exe
+     2016/10/13 星期四 15:37
+
+HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components
+   Microsoft Windows Media Player
+     %SystemRoot%\system32\unregmp2.exe /ShowWMP
+     Microsoft Windows Media Player 安装实用程序
+     Microsoft Corporation
+     12.0.7600.16385
+     c:\windows\system32\unregmp2.exe
+     2009/7/14 星期二 8:23
+   Themes Setup
+     %SystemRoot%\system32\regsvr32.exe /s /n /i:/UserInstall %SystemRoot%\system32\themeui.dll
+     Microsoft(C) 注册服务器
+     Microsoft Corporation
+     6.1.7600.16385
+     c:\windows\system32\regsvr32.exe
+     2009/7/14 星期二 8:14
+   Microsoft Windows
+     "%ProgramFiles%\Windows Mail\WinMail.exe" OCInstallUserConfigOE
+     Windows Mail
+     Microsoft Corporation
+     6.1.7600.16385
+     c:\program files\windows mail\winmail.exe
+     2009/7/14 星期二 7:58
+   Microsoft Windows Media Player
+     %SystemRoot%\system32\unregmp2.exe /FirstLogon /Shortcuts /RegBrowsers /ResetMUI
+     Microsoft Windows Media Player 安装实用程序
+     Microsoft Corporation
+     12.0.7600.16385
+     c:\windows\system32\unregmp2.exe
+     2009/7/14 星期二 8:23
+   Disable SSL3
+     C:\windows\System32\ie4uinit.exe -DisableSSL3
+     IE 每用户初始化工具
+     Microsoft Corporation
+     11.0.9600.17840
+     c:\windows\system32\ie4uinit.exe
+     2015/5/23 星期六 2:07
+   Windows Desktop Update
+     regsvr32.exe /s /n /i:U shell32.dll
+     Microsoft(C) 注册服务器
+     Microsoft Corporation
+     6.1.7600.16385
+     c:\windows\system32\regsvr32.exe
+     2009/7/14 星期二 8:14
+   Web Platform Customizations
+     C:\windows\System32\ie4uinit.exe -UserConfig
+     IE 每用户初始化工具
+     Microsoft Corporation
+     11.0.9600.17840
+     c:\windows\system32\ie4uinit.exe
+     2015/5/23 星期六 2:07
+   n/a
+     C:\Windows\system32\Rundll32.exe C:\Windows\system32\mscories.dll,Install
+     Microsoft .NET IE SECURITY REGISTRATION
+     Microsoft Corporation
+     2.0.50727.5483
+     c:\windows\system32\mscories.dll
+     2014/2/27 星期四 15:41
+   Google Chrome
+     "C:\Program Files (x86)\Google\Chrome\Application\97.0.4692.99\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --channel=stable
+     Google Chrome Installer
+     Google LLC
+     97.0.4692.99
+     c:\program files (x86)\google\chrome\application\97.0.4692.99\installer\chrmstp.exe
+     2022/1/19 星期三 6:43
+   Microsoft Edge
+     "C:\Program Files (x86)\Microsoft\Edge\Application\101.0.1210.47\Installer\setup.exe" --configure-user-settings --verbose-logging --system-level --msedge --channel=stable
+     Microsoft Edge Installer
+     Microsoft Corporation
+     101.0.1210.47
+     c:\program files (x86)\microsoft\edge\application\101.0.1210.47\installer\setup.exe
+     2022/5/12 星期四 23:52
+
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Active Setup\Installed Components
+   Microsoft Windows Media Player
+     %SystemRoot%\system32\unregmp2.exe /ShowWMP
+     Microsoft Windows Media Player 安装实用程序
+     Microsoft Corporation
+     12.0.7600.16385
+     c:\windows\syswow64\unregmp2.exe
+     2009/7/14 星期二 8:09
+   Themes Setup
+     %SystemRoot%\system32\regsvr32.exe /s /n /i:/UserInstall %SystemRoot%\system32\themeui.dll
+     Microsoft(C) 注册服务器
+     Microsoft Corporation
+     6.1.7600.16385
+     c:\windows\syswow64\regsvr32.exe
+     2009/7/14 星期二 7:58
+   Microsoft Windows
+     "%ProgramFiles(x86)%\Windows Mail\WinMail.exe" OCInstallUserConfigOE
+     Windows Mail
+     Microsoft Corporation
+     6.1.7600.16385
+     c:\program files (x86)\windows mail\winmail.exe
+     2009/7/14 星期二 7:42
+   Microsoft Windows Media Player
+     %SystemRoot%\system32\unregmp2.exe /FirstLogon /Shortcuts /RegBrowsers /ResetMUI
+     Microsoft Windows Media Player 安装实用程序
+     Microsoft Corporation
+     12.0.7600.16385
+     c:\windows\syswow64\unregmp2.exe
+     2009/7/14 星期二 8:09
+   Windows Desktop Update
+     regsvr32.exe /s /n /i:U shell32.dll
+     Microsoft(C) 注册服务器
+     Microsoft Corporation
+     6.1.7600.16385
+     c:\windows\syswow64\regsvr32.exe
+     2009/7/14 星期二 7:58
+   n/a
+     C:\Windows\SysWOW64\Rundll32.exe C:\Windows\SysWOW64\mscories.dll,Install
+     Microsoft .NET IE SECURITY REGISTRATION
+     Microsoft Corporation
+     2.0.50727.5483
+     c:\windows\syswow64\mscories.dll
+     2014/2/27 星期四 16:58
+
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\IconServiceLib
+   IconCodecService.dll
+     IconCodecService.dll
+     Converts a PNG part of the icon to a legacy bmp icon
+     Microsoft Corporation
+     6.1.7600.16385
+     c:\windows\system32\iconcodecservice.dll
+     2009/7/14 星期二 9:28
+
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+   Steam
+     "J:\Steam\steam.exe" -silent
+     Steam
+     Valve Corporation
+     7.0.91.85
+     j:\steam\steam.exe
+     2022/1/17 星期一 1:37
+   Dingtalk
+     G:\DingDing\DingtalkLauncher.exe /autorun
+     g:\dingding\dingtalklauncher.exe
+     2021/9/16 星期四 20:35
+   QQ2009
+     "C:\Program Files (x86)\Tencent\QQ\Bin\QQ.exe" /background
+     腾讯QQ
+     Tencent
+     9.5.9.28650
+     c:\program files (x86)\tencent\qq\bin\qq.exe
+     2022/3/25 星期五 23:55
+
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+   Steam
+     "J:\Steam\steam.exe" -silent
+     Steam
+     Valve Corporation
+     7.0.91.85
+     j:\steam\steam.exe
+     2022/1/17 星期一 1:37
+   Dingtalk
+     G:\DingDing\DingtalkLauncher.exe /autorun
+     g:\dingding\dingtalklauncher.exe
+     2021/9/16 星期四 20:35
+   QQ2009
+     "C:\Program Files (x86)\Tencent\QQ\Bin\QQ.exe" /background
+     腾讯QQ
+     Tencent
+     9.5.9.28650
+     c:\program files (x86)\tencent\qq\bin\qq.exe
+     2022/3/25 星期五 23:55
+
+
+Windows IP 配置
+
+   主机名  . . . . . . . . . . . . . : RL-20190616MNQI
+   主 DNS 后缀 . . . . . . . . . . . : 
+   节点类型  . . . . . . . . . . . . : 混合
+   IP 路由已启用 . . . . . . . . . . : 否
+   WINS 代理已启用 . . . . . . . . . : 否
+
+以太网适配器 本地连接 3:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : TAP-Windows Adapter V9
+   物理地址. . . . . . . . . . . . . : 00-FF-22-56-16-80
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+以太网适配器 本地连接 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Sangfor SSL VPN CS Support System VNIC
+   物理地址. . . . . . . . . . . . . : 00-FF-3F-2A-F4-98
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+无线局域网适配器 无线网络连接 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft Virtual WiFi Miniport Adapter
+   物理地址. . . . . . . . . . . . . : 46-0A-64-6C-15-13
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+以太网适配器 本地连接:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   物理地址. . . . . . . . . . . . . : AC-22-0B-AA-45-B7
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+无线局域网适配器 无线网络连接:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Atheros AR9485 Wireless Network Adapter
+   物理地址. . . . . . . . . . . . . : 24-0A-64-6C-15-13
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+   IPv6 地址 . . . . . . . . . . . . : 2001:da8:1002:a002::6:5d7d(首选) 
+   获得租约的时间  . . . . . . . . . : 2022年5月17日 星期二 19:09:03
+   租约过期的时间  . . . . . . . . . : 2022年5月17日 星期二 20:18:42
+   本地链接 IPv6 地址. . . . . . . . : fe80::3d85:f689:227b:416b%12(首选) 
+   IPv4 地址 . . . . . . . . . . . . : 10.208.142.102(首选) 
+   子网掩码  . . . . . . . . . . . . : 255.255.192.0
+   获得租约的时间  . . . . . . . . . : 2022年5月17日 星期二 19:08:56
+   租约过期的时间  . . . . . . . . . : 2022年5月18日 星期三 7:08:55
+   默认网关. . . . . . . . . . . . . : fe80::200:5eff:fe00:101%12
+                                       10.208.128.1
+   DHCP 服务器 . . . . . . . . . . . : 10.208.128.1
+   DHCPv6 IAID . . . . . . . . . . . : 254020196
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-97-67-84-24-0A-64-6C-15-13
+   DNS 服务器  . . . . . . . . . . . : 10.80.128.28
+                                       10.81.254.4
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 VMware Network Adapter VMnet1:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   物理地址. . . . . . . . . . . . . : 00-50-56-C0-00-01
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::81fd:f577:b0f9:5667%15(首选) 
+   IPv4 地址 . . . . . . . . . . . . : 192.168.148.1(首选) 
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 268456022
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-97-67-84-24-0A-64-6C-15-13
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 VMware Network Adapter VMnet8:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   物理地址. . . . . . . . . . . . . : 00-50-56-C0-00-08
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::8da6:b21b:2117:5bee%16(首选) 
+   IPv4 地址 . . . . . . . . . . . . : 192.168.159.1(首选) 
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 302010454
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-97-67-84-24-0A-64-6C-15-13
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 VirtualBox Host-Only Network:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   物理地址. . . . . . . . . . . . . : 0A-00-27-00-00-14
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::9914:ba90:b01c:a65%20(首选) 
+   IPv4 地址 . . . . . . . . . . . . : 192.168.56.1(首选) 
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 654966823
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-24-97-67-84-24-0A-64-6C-15-13
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+隧道适配器 isatap.{5E98E700-A3A7-4644-BFA3-FAB5EBCA706F}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft ISATAP Adapter
+   物理地址. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+隧道适配器 本地连接* 12:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft Teredo Tunneling Adapter
+   物理地址. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+隧道适配器 isatap.{DF848652-3F46-4EAD-87EB-A3C42C0E3964}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   物理地址. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+隧道适配器 isatap.{C56AE52B-5E05-4FD0-AF5C-F5A409C63680}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft ISATAP Adapter #3
+   物理地址. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+隧道适配器 isatap.{3F2AF498-B125-4ED8-BFC1-EE9FBDC001BA}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft ISATAP Adapter #4
+   物理地址. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+隧道适配器 isatap.{C727C745-7928-448B-9117-52CE1B538D56}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft ISATAP Adapter #5
+   物理地址. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+隧道适配器 isatap.{22561680-7784-4907-A882-645C1C47C4E4}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft ISATAP Adapter #6
+   物理地址. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+隧道适配器 isatap.{E00773D4-9450-46F7-98CB-03BFDDD04DCE}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft ISATAP Adapter #7
+   物理地址. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+
+隧道适配器 isatap.{3644879D-659A-4E99-A005-FD2B17E7CFBA}:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft ISATAP Adapter #8
+   物理地址. . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP 已启用 . . . . . . . . . . . : 否
+   自动配置已启用. . . . . . . . . . : 是
+===========================================================================
+接口列表
+ 25...00 ff 22 56 16 80 ......TAP-Windows Adapter V9
+ 18...00 ff 3f 2a f4 98 ......Sangfor SSL VPN CS Support System VNIC
+ 14...46 0a 64 6c 15 13 ......Microsoft Virtual WiFi Miniport Adapter
+ 13...ac 22 0b aa 45 b7 ......Realtek PCIe GBE Family Controller
+ 12...24 0a 64 6c 15 13 ......Atheros AR9485 Wireless Network Adapter
+ 15...00 50 56 c0 00 01 ......VMware Virtual Ethernet Adapter for VMnet1
+ 16...00 50 56 c0 00 08 ......VMware Virtual Ethernet Adapter for VMnet8
+ 20...0a 00 27 00 00 14 ......VirtualBox Host-Only Ethernet Adapter
+  1...........................Software Loopback Interface 1
+ 29...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter
+ 11...00 00 00 00 00 00 00 e0 Microsoft Teredo Tunneling Adapter
+ 27...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter #2
+ 24...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter #3
+ 17...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter #4
+ 22...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter #5
+ 23...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter #6
+ 21...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter #7
+ 26...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter #8
+===========================================================================
+
+IPv4 路由表
+===========================================================================
+活动路由:
+网络目标        网络掩码          网关       接口   跃点数
+          0.0.0.0          0.0.0.0     10.208.128.1   10.208.142.102     25
+     10.208.128.0    255.255.192.0            在链路上    10.208.142.102    281
+   10.208.142.102  255.255.255.255            在链路上    10.208.142.102    281
+   10.208.191.255  255.255.255.255            在链路上    10.208.142.102    281
+        127.0.0.0        255.0.0.0            在链路上         127.0.0.1    306
+        127.0.0.1  255.255.255.255            在链路上         127.0.0.1    306
+  127.255.255.255  255.255.255.255            在链路上         127.0.0.1    306
+     192.168.56.0    255.255.255.0            在链路上      192.168.56.1    266
+     192.168.56.1  255.255.255.255            在链路上      192.168.56.1    266
+   192.168.56.255  255.255.255.255            在链路上      192.168.56.1    266
+    192.168.148.0    255.255.255.0            在链路上     192.168.148.1    276
+    192.168.148.1  255.255.255.255            在链路上     192.168.148.1    276
+  192.168.148.255  255.255.255.255            在链路上     192.168.148.1    276
+    192.168.159.0    255.255.255.0            在链路上     192.168.159.1    276
+    192.168.159.1  255.255.255.255            在链路上     192.168.159.1    276
+  192.168.159.255  255.255.255.255            在链路上     192.168.159.1    276
+        224.0.0.0        240.0.0.0            在链路上         127.0.0.1    306
+        224.0.0.0        240.0.0.0            在链路上      192.168.56.1    266
+        224.0.0.0        240.0.0.0            在链路上    10.208.142.102    281
+        224.0.0.0        240.0.0.0            在链路上     192.168.159.1    276
+        224.0.0.0        240.0.0.0            在链路上     192.168.148.1    276
+  255.255.255.255  255.255.255.255            在链路上         127.0.0.1    306
+  255.255.255.255  255.255.255.255            在链路上      192.168.56.1    266
+  255.255.255.255  255.255.255.255            在链路上    10.208.142.102    281
+  255.255.255.255  255.255.255.255            在链路上     192.168.159.1    276
+  255.255.255.255  255.255.255.255            在链路上     192.168.148.1    276
+===========================================================================
+永久路由:
+  无
+
+IPv6 路由表
+===========================================================================
+活动路由:
+ 如果跃点数网络目标      网关
+ 12    281 ::/0                     fe80::200:5eff:fe00:101
+  1    306 ::1/128                  在链路上
+ 12    281 2001:da8:1002:a002::6:5d7d/128
+                                    在链路上
+ 20    266 fe80::/64                在链路上
+ 12    281 fe80::/64                在链路上
+ 16    276 fe80::/64                在链路上
+ 15    276 fe80::/64                在链路上
+ 12    281 fe80::3d85:f689:227b:416b/128
+                                    在链路上
+ 15    276 fe80::81fd:f577:b0f9:5667/128
+                                    在链路上
+ 16    276 fe80::8da6:b21b:2117:5bee/128
+                                    在链路上
+ 20    266 fe80::9914:ba90:b01c:a65/128
+                                    在链路上
+  1    306 ff00::/8                 在链路上
+ 20    266 ff00::/8                 在链路上
+ 12    281 ff00::/8                 在链路上
+ 16    276 ff00::/8                 在链路上
+ 15    276 ff00::/8                 在链路上
+===========================================================================
+永久路由:
+  无
+
+接口: 10.208.142.102 --- 0xc
+  Internet 地址         物理地址              类型
+  10.208.128.1          00-00-5e-00-01-01     动态        
+  10.208.128.248        00-00-5e-00-01-01     动态        
+  10.208.142.6          00-00-5e-00-01-01     动态        
+  10.208.174.57         00-00-5e-00-01-01     动态        
+  10.208.191.255        ff-ff-ff-ff-ff-ff     静态        
+  224.0.0.2             01-00-5e-00-00-02     静态        
+  224.0.0.22            01-00-5e-00-00-16     静态        
+  224.0.0.251           01-00-5e-00-00-fb     静态        
+  224.0.0.252           01-00-5e-00-00-fc     静态        
+  239.255.255.250       01-00-5e-7f-ff-fa     静态        
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态        
+
+接口: 192.168.148.1 --- 0xf
+  Internet 地址         物理地址              类型
+  192.168.148.255       ff-ff-ff-ff-ff-ff     静态        
+  224.0.0.2             01-00-5e-00-00-02     静态        
+  224.0.0.22            01-00-5e-00-00-16     静态        
+  224.0.0.251           01-00-5e-00-00-fb     静态        
+  224.0.0.252           01-00-5e-00-00-fc     静态        
+  239.255.255.250       01-00-5e-7f-ff-fa     静态        
+
+接口: 192.168.159.1 --- 0x10
+  Internet 地址         物理地址              类型
+  192.168.159.255       ff-ff-ff-ff-ff-ff     静态        
+  224.0.0.2             01-00-5e-00-00-02     静态        
+  224.0.0.22            01-00-5e-00-00-16     静态        
+  224.0.0.251           01-00-5e-00-00-fb     静态        
+  224.0.0.252           01-00-5e-00-00-fc     静态        
+  239.255.255.250       01-00-5e-7f-ff-fa     静态        
+
+接口: 192.168.56.1 --- 0x14
+  Internet 地址         物理地址              类型
+  192.168.56.255        ff-ff-ff-ff-ff-ff     静态        
+  224.0.0.2             01-00-5e-00-00-02     静态        
+  224.0.0.22            01-00-5e-00-00-16     静态        
+  224.0.0.251           01-00-5e-00-00-fb     静态        
+  224.0.0.252           01-00-5e-00-00-fc     静态        
+  239.255.255.250       01-00-5e-7f-ff-fa     静态        
+Process information for RL-20190616MNQI:
+
+Name                Pid Pri Thd  Hnd   Priv        CPU Time    Elapsed Time 
+Idle                  0   0   4    0      0    85:53:26.789    70:48:11.631
+System                4   8 156 1271    188     0:32:37.110    70:48:11.631
+smss                356  11   2   32    556     0:00:00.093    70:48:11.631
+csrss               564  13  10  951   2752     0:00:04.352    70:48:03.145
+wininit             648  13   3   84   1848     0:00:00.390    70:48:02.443
+csrss               656  13  15 1438   4316     0:01:21.526    70:48:02.443
+winlogon            712  13   3  119   3484     0:00:00.780    70:48:02.302
+services            748   9   9  337   8012     0:00:17.752    70:48:02.146
+lsass               768   9   8 1083   8388     0:00:42.947    70:48:02.053
+lsm                 776   8  10  186   2972     0:00:01.279    70:48:02.053
+svchost             868   8  12  397   5220     0:00:57.689    70:48:01.631
+svchost             944   8  10  398   6324     0:00:06.536    70:48:01.288
+svchost             372   8  22  580  24392     0:01:59.512    70:48:01.195
+svchost             580   8  21  679  13608     0:00:29.374    70:48:01.101
+svchost             612   8  15  417  10128     0:00:09.765    70:48:01.070
+svchost             740   8  47 1377  29600     0:01:18.172    70:48:01.054
+svchost            1092   8   6  156   3764     0:00:01.014    70:48:00.773
+ZhuDongFangYu      1284   8  25  430  34188     0:01:12.634    70:48:00.539
+svchost            1336   8  18  531  20040     0:05:06.916    70:48:00.196
+spoolsv            1676   8  12  340   7152     0:00:00.889    70:47:59.135
+dwm                1692  13   5  145  28964     0:27:00.538    70:47:59.120
+svchost            1776   8  11  216   7124     0:00:05.709    70:47:58.933
+explorer           1856   8  48 1298  73920     0:02:27.249    70:47:58.855
+armsvc             1940   8   4   70   1132     0:00:00.031    70:47:58.496
+taskhost           1948   8  11  288  13240     0:00:07.675    70:47:58.480
+mDNSResponder      1980   8   4  118   3408     0:02:30.275    70:47:58.433
+CAJSHost           2020   8   3   58   1096     0:00:00.031    70:47:58.387
+svchost            1040   8  10  173   6568     0:00:00.686    70:47:58.324
+EwServer           1312   8   5   61   1644     0:00:00.156    70:47:58.231
+FlashHelperService  1448   8  26 1288  12508     0:00:02.246    70:47:57.950
+taskeng            1460   8   7  120   2776     0:00:00.889    70:47:57.700
+FNPLicensingService  2072   8   9  109   1932     0:00:00.234    70:47:57.575
+UPSecurityInput    2232   6  46  195  12524     0:07:37.722    70:47:57.466
+svchost            2244   8   7  359   9120     0:02:26.999    70:47:57.466
+jtagserver         2316   8   4   60   1716     0:00:00.078    70:47:57.154
+lkads              2472   8  13  201   5288     0:00:00.904    70:47:55.953
+sqlservr           2496   8  64  583 304772     0:01:01.167    70:47:55.797
+igfxtray           2552   8   3   83   3012     0:00:00.046    70:47:55.267
+hkcmd              2616   8   4  176   3960     0:00:03.010    70:47:55.064
+igfxpers           2656   8   4  440   4004     0:00:00.327    70:47:54.955
+QQWBUserCenter     2764   8   4  186   4212     0:00:01.918    70:47:54.237
+nidmsrv            2832   8  16  195   5156     0:00:00.858    70:47:54.097
+nisvcloc           2960   8   3   70   1368     0:00:00.078    70:47:53.660
+QQProtect          3056   8  18  394  20532     0:00:11.980    70:47:53.488
+SSScheduler        2384   8   1   60   1112     0:00:00.031    70:47:53.176
+remotesolverdispatcherservice  2352   8   4   66   1588     0:00:00.046    70:47:52.911
+nierserver         1268   8   3   87   3880     0:00:00.702    70:47:52.864
+vmware-tray        3064   8   3   94   2996     0:00:00.093    70:47:52.674
+SangforPWEx        3080   8   8  230   6340     0:00:01.357    70:47:52.634
+SangforPromoteService  3136   8  12  282   7784     0:09:26.002    70:47:52.404
+SecoClientPromoteService  3160   8   6  102  35200     0:00:05.257    70:47:52.314
+dispatcher         3184   8   8   51  18032     0:00:00.046    70:47:52.244
+conhost            3200   8   3   59   1412     0:00:00.031    70:47:52.184
+SangforUDProtectEx  3324   8   5  190   3648     0:00:00.702    70:47:51.480
+sqlbrowser         3400   8   9   95   1672     0:00:00.062    70:47:51.186
+sqlwriter          3440   8   4   82   2244     0:00:00.124    70:47:51.126
+svchost            3492   8   6  108   2368     0:00:00.109    70:47:51.056
+UPService          3544   8   7  123   4184     0:14:53.292    70:47:50.986
+vmnetdhcp          3620   8   3   52   7456     0:00:00.140    70:47:50.764
+vmnat              3640   8   6   87   1940     0:00:02.527    70:47:50.714
+svchost            3688   8  25  342   8980     0:00:07.347    70:47:50.644
+lkcitdl            3720   8  16  195   5672     0:00:01.029    70:47:50.574
+lktsrv             3836   8  18  212   5664     0:00:40.201    70:47:50.414
+SystemWebServer    2388   8  10  190   6872     0:00:01.045    70:47:49.862
+vmware-authd       3276   8   6  214   7716     0:02:03.178    70:47:49.310
+ECAgent            4632   8  15  360   9752     0:00:53.180    70:47:46.548
+sldworks_fs        4964   8   1  107  21760     0:00:02.184    70:47:43.668
+vmware-usbarbitrator64  4616   8   5  137   3908     0:00:00.468    70:47:38.828
+ApplicationWebServer  4708   8  11  230   8596     0:00:00.998    70:47:38.398
+SearchIndexer      1300   8  14  659  19872     0:00:16.723    70:47:28.639
+svchost            4092   8   5   98   2112     0:00:09.937    70:47:28.427
+RAVBg64            4980   6   7  210  14808     0:00:00.171    70:47:27.712
+RAVBg64            5132   6   7  217  14792     0:00:00.561    70:47:27.679
+RAVCpl64           5408   6  11  262   8848     0:00:00.327    70:47:25.820
+chrome             1816   8  36 1981 216876     0:13:11.190    70:42:53.402
+chrome             6148   8   9  189  68304     0:00:00.202    70:42:53.282
+chrome             6624  10  18  533 379932     1:43:36.359    70:42:52.052
+chrome             6628   8  16  390 123624     0:12:35.731    70:42:52.002
+chrome             6604   8   7  164 108604     0:00:06.130    70:42:51.912
+chrome             6732   8  15  191 150984     0:00:01.903    70:42:50.447
+svchost             832   8   8  221   4780     0:00:19.172    70:41:49.836
+chrome             2508   4  15  430 244556     0:02:16.500    70:36:03.201
+chrome             2220   4  15  241 149544     0:00:01.450    70:36:01.750
+chrome             2528   8  11  193 110592     0:02:03.115    70:34:29.827
+chrome             1324   4  16  538 239224     0:02:25.611    67:49:08.428
+MicrosoftEdgeUpdate  7112   8   5  107   1896     0:00:00.124    65:59:01.778
+QQ                 7908   8  97 1683 319892     0:27:32.783    43:53:46.216
+TXPlatform         6208   8   5  118   3008     0:00:00.234    43:53:15.427
+chrome             5300   4  15  191 147504     0:00:00.655    43:12:07.776
+chrome             5920   4  15  221 148544     0:00:11.169    43:07:45.528
+chrome             1264   8   9  145 153336     0:00:05.881    43:07:44.807
+WINWORD            1216   8   9  909  40920     0:00:59.607    42:11:54.655
+splwow64           7996   8   6   73   2232     0:00:00.171    42:11:53.771
+EXCEL              3116   8  11  714  21432     0:00:12.651    31:08:21.587
+chrome             5096   4  15  430 198520     0:00:36.473    27:33:58.571
+chrome             8340   4  15  423 194092     0:00:40.529    27:23:41.945
+chrome             7148   4  15  422 195676     0:00:24.211    26:50:25.615
+vmware-hostd       8068   8  21  291  39868     0:00:03.229    22:00:01.071
+chrome             9048   4  22  370 216260     0:00:34.101    21:28:06.622
+chrome             8592   4  20  535 315568     0:21:09.754    19:20:19.563
+audiodg            2404   8   9  367  24148     0:00:41.371    17:34:34.342
+cloudmusic         7524   8  53  831  95508     0:02:51.445    17:34:18.537
+cloudmusic_reporter  7408   8   3   75   1280     0:00:00.031    17:34:18.408
+cloudmusic         9104   8   7  232  75460     0:00:06.318    17:34:17.441
+cloudmusic         9044   8  18  265 173748     0:07:18.690    17:34:17.283
+WmiPrvSE           7556   8  12  307   8984     0:00:06.193    17:34:12.995
+chrome             6516   4  15  315 182784     0:00:25.022     0:41:55.489
+chrome             8660   4  15  241 175108     0:00:31.106     0:41:55.105
+QQExternal         6828   8  16  337  51912     0:00:03.775     0:36:49.951
+AcroRd32           4760   8  12  358  32000     0:00:01.076     0:34:41.668
+AcroRd32            860   8  18  639 293020     0:00:32.495     0:34:41.538
+RdrCEF             6344   8  26  547  14312     0:00:05.116     0:34:38.121
+RdrCEF             5112  10  10  252  48908     0:00:00.468     0:34:37.925
+RdrCEF             8620   8   7  165   6052     0:00:00.109     0:34:37.886
+RdrCEF             4788   8  12  224   7596     0:00:01.747     0:34:37.862
+RdrCEF             2844   8  13  233  33668     0:00:03.338     0:34:36.298
+RdrCEF             7772   8  13  240  32988     0:00:03.478     0:34:28.672
+RdrCEF             9116   8  13  226  30412     0:00:02.932     0:34:28.631
+chrome             5060   4  16  275 166548     0:00:04.914     0:28:36.688
+TrustedInstaller    804   8   5  129  10508     0:00:41.777     0:26:58.737
+chrome             8636   4  17  322 166552     0:00:02.418     0:22:06.077
+chrome             8640   4  15  282 172204     0:00:07.831     0:11:50.503
+chrome             8352   4  14  316 157136     0:00:01.232     0:11:50.431
+chrome             3372   4  14  249 147840     0:00:02.386     0:11:48.677
+chrome             1260   4  15  230 161880     0:00:05.881     0:11:13.081
+chrome             8824   4  14  183 146428     0:00:00.374     0:11:13.003
+chrome             6536   4  15  260 174068     0:00:04.695     0:11:07.983
+chrome             6836   4  14  189 147828     0:00:00.405     0:11:07.912
+cmd                6932   8   1   24   2288     0:00:00.078     0:07:05.126
+conhost            8132   8   2   58   2868     0:00:00.920     0:07:05.123
+notepad            1184   8   1   59   2116     0:00:00.405     0:02:48.919
+chrome             6676   4  17  291 171388     0:00:02.090     0:02:48.001
+chrome             7116   4  15  276 164084     0:00:05.584     0:01:42.569
+chrome             7544   4  14  177 147136     0:00:00.234     0:01:42.483
+chrome             8036   4  14  163 135824     0:00:00.202     0:01:19.399
+cmd                6196   8   1   26   2320     0:00:00.062     0:00:23.898
+conhost            5052   8   2   60   2144     0:00:00.062     0:00:23.891
+WmiPrvSE           5864   8   7  118   2700     0:00:00.046     0:00:10.497
+pslist             1628  13   1  153   2336     0:00:00.702     0:00:00.658
+dllhost            8776   8   6   92   2560     0:00:00.046     0:00:00.454
